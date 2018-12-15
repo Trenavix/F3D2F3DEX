@@ -1,0 +1,19 @@
+//SM64 US ROM Special DL locations
+//Main Segments
+#02 00803156
+#03 00AB2450
+#04 00823B70
+#08 00A81860
+
+//Title screen 0x07
+#07 00AED760
+F3D
+SegAddr 0700B3A0
+SegAddr 0700C6A0
+
+//Backgrounds DL for triangles
+SegAddr 02017350
+
+//Health Bar 0x04
+F3D
+Addr ADB9C0
