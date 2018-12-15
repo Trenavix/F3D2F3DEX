@@ -1,0 +1,10 @@
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\bin\Release\F3D2F3DEX.exe.config
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\bin\Release\F3D2F3DEX.exe
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\bin\Release\F3D2F3DEX.pdb
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.csprojResolveAssemblyReference.cache
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.MainForm.resources
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.Properties.Resources.resources
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.csproj.GenerateResource.Cache
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.csproj.CoreCompileInputs.cache
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.exe
+C:\Users\Trent\Documents\GitHub\F3D2F3DEX\F3D2F3DEX\obj\Release\F3D2F3DEX.pdb
